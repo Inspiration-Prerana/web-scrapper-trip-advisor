@@ -1,0 +1,249 @@
+	Name	Price	Provider	Review	Rating	Wifi	Breakfast	Parking	Restaurant
+0	Kantipur Temple House	NPR 5,988	Expedia	888 reviews	4.5 of 5 bubbles	true	false	false	true
+1	Dwarika's Hotel	NPR 26,180	Booking.com	1,195 reviews	4.5 of 5 bubbles	false	false	false	true
+2	Hotel Mulberry	NPR 11,584	Expedia	104 reviews	5 of 5 bubbles	true	false	true	false
+3	Kantipur Temple House	NPR 5,988	Expedia	888 reviews	4.5 of 5 bubbles	true	false	false	true
+4	Aria Boutique Hotel & Spa	NPR 4,501	Expedia	324 reviews	4.5 of 5 bubbles	true	true	false	false
+5	Hotel Shanker	NPR 5,938	Booking.com	1,307 reviews	4 of 5 bubbles	true	false	true	false
+6	Oasis Kathmandu Hotel	NPR 3,687	Booking.com	512 reviews	5 of 5 bubbles	true	false	true	false
+7	Dream Nepal Hotel and Apartment	NPR 2,633	Expedia	615 reviews	4.5 of 5 bubbles	true	true	false	false
+8	Yatri Suites and Spa	NPR 6,024	Booking.com	223 reviews	4.5 of 5 bubbles	true	true	false	false
+9	Hyatt Regency Kathmandu	NPR 13,638	Hotels.com	1,780 reviews	4.5 of 5 bubbles	false	false	true	false
+10	Shambaling Boutique Hotel	NPR 4,037	Expedia	523 reviews	5 of 5 bubbles	true	false	true	false
+11	Dalai-La Boutique Hotel	NPR 10,882	Expedia	648 reviews	5 of 5 bubbles	true	true	false	false
+12	Hotel Ambassador by ACE Hotels	NPR 8,322	Expedia	60 reviews	5 of 5 bubbles	true	false	true	false
+13	Kathmandu Guest House	NPR 4,976	Expedia	1,388 reviews	4 of 5 bubbles	true	true	false	false
+14	Hotel Access Nepal	NPR 3,915	Booking.com	365 reviews	4.5 of 5 bubbles	true	true	false	false
+15	Kathmandu Eco Hotel	NPR 2,369	Booking.com	780 reviews	5 of 5 bubbles	true	true	false	false
+16	Ambassador Garden Home	NPR 4,107	Booking.com	715 reviews	4.5 of 5 bubbles	true	true	false	false
+17	The Address Kathmandu Hotel	NPR 3,437	Booking.com	209 reviews	4.5 of 5 bubbles	true	true	false	false
+18	Kathmandu City Hotel	NPR 2,218	Expedia	242 reviews	4.5 of 5 bubbles	true	true	false	false
+19	Hotel Ganesh Himal	NPR 2,997	Booking.com	684 reviews	4.5 of 5 bubbles	true	false	false	true
+20	Hotel Tibet International	NPR 9,902	Expedia	656 reviews	4.5 of 5 bubbles	true	false	true	false
+21	OYO 11477 Backyard Hotel	NPR 1,842	Booking.com	638 reviews	4.5 of 5 bubbles	true	true	false	false
+22	Gokarna Forest Resort	NPR 13,126	Expedia	971 reviews	4.5 of 5 bubbles	false	true	true	false
+23	Maya Boutique Hotel	NPR 2,784	Booking.com	146 reviews	5 of 5 bubbles	true	true	false	false
+24	Crowne Plaza Kathmandu-Soaltee	NPR 17,674	Expedia	1,016 reviews	4 of 5 bubbles	false	false	true	false
+25	Fairfield by Marriott Kathmandu	NPR 8,454	Fairfield Inn	209 reviews	4.5 of 5 bubbles	true	false	true	false
+26	Hotel Buddy		Expedia	78 reviews	5 of 5 bubbles	true	false	true	false
+27	Maya Manor Boutique Hotel		Expedia	121 reviews	4.5 of 5 bubbles	true	false	true	false
+28	Hotel Bliss International		Expedia	295 reviews	4.5 of 5 bubbles	true	false	true	false
+29	Hotel Jay Suites		Agoda.com	192 reviews	4.5 of 5 bubbles	true	true	false	false
+30	Alpine Hotel & Apartment		Hotels.com	359 reviews	5 of 5 bubbles	true	true	false	false
+31	Hotel Siddhi Manakamana	NPR 4,353	Booking.com	27 reviews	4.5 of 5 bubbles	true	false	true	false
+32	Hotel Shanker	NPR 5,988	Expedia	1,307 reviews	4 of 5 bubbles	true	false	true	false
+33	Trekkers' Home	NPR 711	Booking.com	761 reviews	4.5 of 5 bubbles	true	false	false	true
+34	Hotel Friends Home	NPR 2,369	Booking.com	1,402 reviews	5 of 5 bubbles	true	true	false	false
+35	Oasis Kathmandu Hotel	NPR 3,687	Booking.com	511 reviews	5 of 5 bubbles	true	false	true	false
+36	Kantipur Temple House	NPR 5,988	Expedia	888 reviews	4.5 of 5 bubbles	true	false	false	true
+37	Hotel Silver Home	NPR 1,055	Expedia	731 reviews	4.5 of 5 bubbles	true	true	false	false
+38	Aryatara Kathmandu Hotel	NPR 3,393	Booking.com	638 reviews	5 of 5 bubbles	true	false	true	false
+39	Kathmandu Guest House	NPR 4,976	Expedia	1,388 reviews	4 of 5 bubbles	true	true	false	false
+40	Hyatt Regency Kathmandu	NPR 13,638	Hotels.com	1,780 reviews	4.5 of 5 bubbles	false	false	true	false
+41	Kumari Boutique Hotel	NPR 4,562	Booking.com	104 reviews	5 of 5 bubbles	true	false	true	false
+42	Hotel Family Home	NPR 1,027	Booking.com	617 reviews	4.5 of 5 bubbles	true	false	false	false
+43	Shambaling Boutique Hotel	NPR 4,037	Expedia	523 reviews	5 of 5 bubbles	true	false	true	false
+44	Kathmandu Eco Hotel	NPR 2,369	Booking.com	780 reviews	5 of 5 bubbles	true	true	false	false
+45	Kathmandu Grand Hotel	NPR 3,264	Booking.com	889 reviews	4.5 of 5 bubbles	true	true	false	false
+46	Hotel Ganesh Himal	NPR 2,997	Booking.com	684 reviews	4.5 of 5 bubbles	true	false	false	true
+47	Hotel Mums Home Pvt Ltd	NPR 3,160	Expedia	827 reviews	5 of 5 bubbles	true	false	true	false
+48	Hotel Osho Home	NPR 2,159	Booking.com	455 reviews	5 of 5 bubbles	true	true	false	false
+49	Hotel Shambala	NPR 8,418	Expedia	494 reviews	4.5 of 5 bubbles	true	false	true	false
+50	Dwarika's Hotel	NPR 26,184	Hotels.com	1,195 reviews	4.5 of 5 bubbles	false	false	false	true
+51	The Sparkling Turtle Backpackers Hostel	NPR 1,231	Booking.com	234 reviews	4.5 of 5 bubbles	true	true	false	false
+52	Thamel Eco Resort	NPR 3,072	Booking.com	394 reviews	4 of 5 bubbles	true	true	false	false
+53	Hotel Mulberry	NPR 11,584	Expedia	104 reviews	5 of 5 bubbles	true	false	true	false
+54	Royal Penguin Boutique Hotel & Spa	NPR 5,266	Expedia	240 reviews	4.5 of 5 bubbles	true	true	false	false
+55	Hotel Happy Home	NPR 1,716	Booking.com	536 reviews	4.5 of 5 bubbles	true	true	false	false
+56	Hotel Buddha	NPR 2,741	Booking.com	402 reviews	4.5 of 5 bubbles	true	false	true	false
+57	DOM Himalaya Hotel		Booking.com	180 reviews	5 of 5 bubbles	true	false	true	false
+58	Shree Tibet Family Guest House		Booking.com	451 reviews	4.5 of 5 bubbles	true	false	false	false
+59	Kathmandu Suite Home		Agoda.com	85 reviews	5 of 5 bubbles	true	true	false	false
+60	Kasthamandap Boutique Hotel		Booking.com	193 reviews	5 of 5 bubbles	true	true	false	false
+61	Hotel Amaryllis		Booking.com	394 reviews	5 of 5 bubbles	true	false	true	false
+62	Traditional Comfort	NPR 10,356	Expedia	162 reviews	5 of 5 bubbles	true	true	false	false
+63	Hotel Silver Home	NPR 1,055	Expedia	731 reviews	4.5 of 5 bubbles	true	true	false	false
+64	Hotel Shambala	NPR 8,418	Expedia	494 reviews	4.5 of 5 bubbles	true	false	true	false
+65	Kathmandu Guest House	NPR 4,976	Expedia	1,388 reviews	4 of 5 bubbles	true	true	false	false
+66	Kantipur Temple House	NPR 5,988	Expedia	888 reviews	4.5 of 5 bubbles	true	false	false	true
+67	Hotel Friends Home	NPR 2,369	Booking.com	1,402 reviews	5 of 5 bubbles	true	true	false	false
+68	Hotel Shanker	NPR 5,988	Expedia	1,307 reviews	4 of 5 bubbles	true	false	true	false
+69	Hyatt Regency Kathmandu	NPR 13,636	Booking.com	1,780 reviews	4.5 of 5 bubbles	false	false	true	false
+70	Trekkers' Home	NPR 711	Booking.com	761 reviews	4.5 of 5 bubbles	true	false	false	true
+71	Dwarika's Hotel	NPR 26,180	Booking.com	1,195 reviews	4.5 of 5 bubbles	false	false	false	true
+72	Shambaling Boutique Hotel	NPR 4,037	Expedia	523 reviews	5 of 5 bubbles	true	false	true	false
+73	Festoon Hotel	NPR 1,158	Booking.com	212 reviews	4.5 of 5 bubbles	true	true	false	false
+74	Hotel Buddha Land	NPR 1,975	Booking.com	279 reviews	4.5 of 5 bubbles	true	false	false	false
+75	Gokarna Forest Resort	NPR 13,126	Expedia	971 reviews	4.5 of 5 bubbles	false	true	true	false
+76	Hotel Horizon	NPR 1,286	Booking.com	188 reviews	4.5 of 5 bubbles	true	false	true	false
+77	Aria Boutique Hotel & Spa	NPR 4,992	Expedia	324 reviews	4.5 of 5 bubbles	true	true	false	false
+78	Kathmandu Grand Hotel	NPR 3,264	Booking.com	889 reviews	4.5 of 5 bubbles	true	true	false	false
+79	OYO 11477 Backyard Hotel	NPR 1,842	Booking.com	638 reviews	4.5 of 5 bubbles	true	true	false	false
+80	Hotel Encounter Nepal	NPR 2,433	Booking.com	1,069 reviews	4.5 of 5 bubbles	true	false	true	false
+81	Alobar1000 Hostel	NPR 1,738	Booking.com	272 reviews	4.5 of 5 bubbles	true	false	false	true
+82	Thamel Eco Resort	NPR 3,072	Booking.com	394 reviews	4 of 5 bubbles	true	true	false	false
+83	Crowne Plaza Kathmandu-Soaltee	NPR 17,674	Expedia	1,016 reviews	4 of 5 bubbles	false	false	true	false
+84	Dream Nepal Hotel and Apartment	NPR 2,633	Expedia	615 reviews	4.5 of 5 bubbles	true	true	false	false
+85	Ambassador Garden Home	NPR 4,107	Booking.com	715 reviews	4.5 of 5 bubbles	true	true	false	false
+86	Dalai-La Boutique Hotel	NPR 10,882	Hotels.com	648 reviews	5 of 5 bubbles	true	true	false	false
+87	Hotel Buddha	NPR 2,741	Booking.com	402 reviews	4.5 of 5 bubbles	true	false	true	false
+88	Hotel Thamel	NPR 2,944	Booking.com	401 reviews	4 of 5 bubbles	true	true	false	false
+89	Hotel Ganesh Himal	NPR 2,997	Booking.com	684 reviews	4.5 of 5 bubbles	true	false	false	true
+90	Tibet Peace Inn	NPR 1,615	Booking.com	377 reviews	5 of 5 bubbles	true	true	false	false
+91	Norbulinka Boutique Hotel	NPR 2,800	Booking.com	264 reviews	4.5 of 5 bubbles	true	false	true	false
+92	Hotel Mums Home Pvt Ltd	NPR 3,160	Expedia	827 reviews	5 of 5 bubbles	true	false	true	false
+93	Traditional Comfort	NPR 10,356	Booking.com	162 reviews	5 of 5 bubbles	true	true	false	false
+94	Kantipur Temple House	NPR 5,988	Expedia	888 reviews	4.5 of 5 bubbles	true	false	false	true
+95	Hotel Friends Home	NPR 2,369	Booking.com	1,402 reviews	5 of 5 bubbles	true	true	false	false
+96	Hotel Shanker	NPR 5,938	Booking.com	1,307 reviews	4 of 5 bubbles	true	false	true	false
+97	Shambaling Boutique Hotel	NPR 4,037	Expedia	523 reviews	5 of 5 bubbles	true	false	true	false
+98	Aria Boutique Hotel & Spa	NPR 4,992	Expedia	324 reviews	4.5 of 5 bubbles	true	true	false	false
+99	Hotel Shambala	NPR 8,418	Expedia	494 reviews	4.5 of 5 bubbles	true	false	true	false
+100	Dwarika's Hotel	NPR 26,180	Booking.com	1,195 reviews	4.5 of 5 bubbles	false	false	false	true
+101	Hotel Silver Home	NPR 1,055	Expedia	731 reviews	4.5 of 5 bubbles	true	true	false	false
+102	Gokarna Forest Resort	NPR 13,126	Expedia	971 reviews	4.5 of 5 bubbles	false	true	true	false
+103	Crowne Plaza Kathmandu-Soaltee	NPR 17,674	Expedia	1,016 reviews	4 of 5 bubbles	false	false	true	false
+104	Hyatt Regency Kathmandu	NPR 13,638	Hotels.com	1,780 reviews	4.5 of 5 bubbles	false	false	true	false
+105	Dream Nepal Hotel and Apartment	NPR 2,633	Expedia	615 reviews	4.5 of 5 bubbles	true	true	false	false
+106	OYO 11477 Backyard Hotel	NPR 1,842	Booking.com	638 reviews	4.5 of 5 bubbles	true	true	false	false
+107	Thamel Eco Resort	NPR 3,055	Expedia	394 reviews	4 of 5 bubbles	true	true	false	false
+108	Gaju Suite Hotel	NPR 3,212	Booking.com	490 reviews	4.5 of 5 bubbles	true	false	true	false
+109	Kathmandu Eco Hotel	NPR 2,369	Booking.com	780 reviews	5 of 5 bubbles	true	true	false	false
+110	Trekkers' Home	NPR 711	Booking.com	761 reviews	4.5 of 5 bubbles	true	false	false	true
+111	Hotel Amaryllis	NPR 2,164	Booking.com	394 reviews	5 of 5 bubbles	true	false	true	false
+112	Norbulinka Boutique Hotel	NPR 2,800	Booking.com	264 reviews	4.5 of 5 bubbles	true	false	true	false
+113	Avataar Kathmandu Hotel	NPR 3,072	Booking.com	284 reviews	4.5 of 5 bubbles	true	true	false	false
+114	Hotel Access Nepal	NPR 3,915	Booking.com	365 reviews	4.5 of 5 bubbles	true	true	false	false
+115	Pilgrims Guest House	NPR 1,663	Booking.com	443 reviews	4.5 of 5 bubbles	true	false	true	false
+116	Hotel Mums Home Pvt Ltd	NPR 3,160	Expedia	827 reviews	5 of 5 bubbles	true	false	true	false
+117	Hotel Buddha Land	NPR 1,975	Booking.com	279 reviews	4.5 of 5 bubbles	true	false	false	false
+118	Hotel Nepalaya	NPR 1,561	Booking.com	660 reviews	4.5 of 5 bubbles	true	false	true	false
+119	Hotel Family Home	NPR 1,027	Booking.com	617 reviews	4.5 of 5 bubbles	true	false	false	false
+120	Hotel Thamel	NPR 2,944	Booking.com	401 reviews	4 of 5 bubbles	true	true	false	false
+121	Hotel Buddha	NPR 2,741	Booking.com	402 reviews	4.5 of 5 bubbles	true	false	true	false
+122	Hotel Osho Home	NPR 2,168	Expedia	455 reviews	5 of 5 bubbles	true	true	false	false
+123	Khangsar Guest House	NPR 923	Booking.com	538 reviews	4.5 of 5 bubbles	true	false	false	true
+124	Traditional Comfort	NPR 10,356	Expedia	162 reviews	5 of 5 bubbles	true	true	false	false
+125	Shambaling Boutique Hotel	NPR 4,037	Expedia	523 reviews	5 of 5 bubbles	true	false	true	false
+126	Hotel Friends Home	NPR 2,369	Booking.com	1,402 reviews	5 of 5 bubbles	true	true	false	false
+127	Hotel Shanker	NPR 5,938	Booking.com	1,307 reviews	4 of 5 bubbles	true	false	true	false
+128	Kathmandu Madhuban Guest House	NPR 1,053	Booking.com	344 reviews	4.5 of 5 bubbles	true	false	true	false
+129	Dream Nepal Hotel and Apartment	NPR 2,633	Expedia	615 reviews	4.5 of 5 bubbles	true	true	false	false
+130	Kantipur Temple House	NPR 5,988	Expedia	888 reviews	4.5 of 5 bubbles	true	false	false	true
+131	Thamel Eco Resort	NPR 3,072	Booking.com	394 reviews	4 of 5 bubbles	true	true	false	false
+132	Trekkers' Home	NPR 711	Booking.com	761 reviews	4.5 of 5 bubbles	true	false	false	true
+133	Hotel Amaryllis	NPR 2,164	Booking.com	394 reviews	5 of 5 bubbles	true	false	true	false
+134	Hotel Shambala	NPR 8,418	Expedia	494 reviews	4.5 of 5 bubbles	true	false	true	false
+135	Hotel Silver Home	NPR 1,055	Expedia	731 reviews	4.5 of 5 bubbles	true	true	false	false
+136	Dwarika's Hotel	NPR 26,180	Booking.com	1,195 reviews	4.5 of 5 bubbles	false	false	false	true
+137	OYO 11477 Backyard Hotel	NPR 1,842	Booking.com	638 reviews	4.5 of 5 bubbles	true	true	false	false
+138	Alobar1000 Hostel	NPR 1,738	Booking.com	272 reviews	4.5 of 5 bubbles	true	false	false	true
+139	Festoon Hotel	NPR 1,158	Booking.com	212 reviews	4.5 of 5 bubbles	true	true	false	false
+140	Khangsar Guest House	NPR 923	Booking.com	538 reviews	4.5 of 5 bubbles	true	false	false	true
+141	Aria Boutique Hotel & Spa	NPR 4,992	Expedia	324 reviews	4.5 of 5 bubbles	true	true	false	false
+142	Rokpa Guest House	NPR 4,909	Booking.com	161 reviews	5 of 5 bubbles	true	false	false	true
+143	Hotel Yala Peak	NPR 868	Expedia	177 reviews	4.5 of 5 bubbles	true	false	false	true
+144	Hotel The Great Wall	NPR 1,353	Expedia	192 reviews	4.5 of 5 bubbles	true	false	false	true
+145	Andes House	NPR 1,361	Booking.com	291 reviews	4.5 of 5 bubbles	true	true	false	false
+146	The Sparkling Turtle Backpackers Hostel	NPR 1,231	Booking.com	234 reviews	4.5 of 5 bubbles	true	true	false	false
+147	Hotel Buddha Land	NPR 1,975	Booking.com	279 reviews	4.5 of 5 bubbles	true	false	false	false
+148	Hotel Horizon	NPR 1,286	Booking.com	188 reviews	4.5 of 5 bubbles	true	false	true	false
+149	Pilgrims Guest House	NPR 1,663	Booking.com	443 reviews	4.5 of 5 bubbles	true	false	true	false
+150	Hotel Family Home	NPR 1,027	Booking.com	617 reviews	4.5 of 5 bubbles	true	false	false	false
+151	Crowne Plaza Kathmandu-Soaltee	NPR 17,674	Expedia	1,016 reviews	4 of 5 bubbles	false	false	true	false
+152	Swayambhu View Guest House	NPR 1,738	Booking.com	88 reviews	5 of 5 bubbles	true	false	true	false
+153	Stupa Guest House and Restaurant	NPR 733	Booking.com	169 reviews	4.5 of 5 bubbles	true	false	false	true
+154	Potala Tourist Home	NPR 1,159	Booking.com	128 reviews	4.5 of 5 bubbles	true	false	false	true
+155	Traditional Comfort	NPR 10,356	Expedia	162 reviews	5 of 5 bubbles	true	true	false	false
+156	Kantipur Temple House	NPR 5,988	Expedia	888 reviews	4.5 of 5 bubbles	true	false	false	true
+157	Hotel Friends Home	NPR 2,370	Expedia	1,402 reviews	5 of 5 bubbles	true	true	false	false
+158	Hotel Shanker	NPR 5,988	Expedia	1,307 reviews	4 of 5 bubbles	true	false	true	false
+159	Shambaling Boutique Hotel	NPR 4,037	Expedia	523 reviews	5 of 5 bubbles	true	false	true	false
+160	Dwarika's Hotel	NPR 26,180	Booking.com	1,195 reviews	4.5 of 5 bubbles	false	false	false	true
+161	Aria Boutique Hotel & Spa	NPR 4,992	Expedia	324 reviews	4.5 of 5 bubbles	true	true	false	false
+162	Hotel Shambala	NPR 8,418	Expedia	494 reviews	4.5 of 5 bubbles	true	false	true	false
+163	Hotel Silver Home	NPR 1,055	Expedia	731 reviews	4.5 of 5 bubbles	true	true	false	false
+164	Gokarna Forest Resort	NPR 13,126	Expedia	971 reviews	4.5 of 5 bubbles	false	true	true	false
+165	Crowne Plaza Kathmandu-Soaltee	NPR 17,674	Expedia	1,016 reviews	4 of 5 bubbles	false	false	true	false
+166	Hyatt Regency Kathmandu	NPR 13,638	Hotels.com	1,780 reviews	4.5 of 5 bubbles	false	false	true	false
+167	Dream Nepal Hotel and Apartment	NPR 2,633	Expedia	615 reviews	4.5 of 5 bubbles	true	true	false	false
+168	OYO 11477 Backyard Hotel	NPR 1,842	Booking.com	638 reviews	4.5 of 5 bubbles	true	true	false	false
+169	Thamel Eco Resort	NPR 3,055	Expedia	394 reviews	4 of 5 bubbles	true	true	false	false
+170	Gaju Suite Hotel	NPR 3,212	Booking.com	490 reviews	4.5 of 5 bubbles	true	false	true	false
+171	Kathmandu Eco Hotel	NPR 2,369	Booking.com	780 reviews	5 of 5 bubbles	true	true	false	false
+172	Trekkers' Home	NPR 711	Booking.com	761 reviews	4.5 of 5 bubbles	true	false	false	true
+173	Hotel Amaryllis	NPR 2,164	Booking.com	394 reviews	5 of 5 bubbles	true	false	true	false
+174	Norbulinka Boutique Hotel	NPR 2,800	Booking.com	264 reviews	4.5 of 5 bubbles	true	false	true	false
+175	Avataar Kathmandu Hotel	NPR 3,072	Booking.com	284 reviews	4.5 of 5 bubbles	true	true	false	false
+176	Hotel Access Nepal	NPR 3,915	Booking.com	365 reviews	4.5 of 5 bubbles	true	true	false	false
+177	Pilgrims Guest House	NPR 1,663	Booking.com	443 reviews	4.5 of 5 bubbles	true	false	true	false
+178	Hotel Mums Home Pvt Ltd	NPR 3,160	Expedia	827 reviews	5 of 5 bubbles	true	false	true	false
+179	Hotel Buddha Land	NPR 1,975	Booking.com	279 reviews	4.5 of 5 bubbles	true	false	false	false
+180	Hotel Nepalaya	NPR 1,561	Booking.com	660 reviews	4.5 of 5 bubbles	true	false	true	false
+181	Hotel Family Home	NPR 1,027	Booking.com	617 reviews	4.5 of 5 bubbles	true	false	false	false
+182	Hotel Thamel	NPR 2,944	Booking.com	401 reviews	4 of 5 bubbles	true	true	false	false
+183	Hotel Buddha	NPR 2,741	Booking.com	401 reviews	4.5 of 5 bubbles	true	false	true	false
+184	Hotel Osho Home	NPR 2,159	Booking.com	455 reviews	5 of 5 bubbles	true	true	false	false
+185	Khangsar Guest House	NPR 923	Booking.com	538 reviews	4.5 of 5 bubbles	true	false	false	true
+186	Traditional Comfort	NPR 10,356	Expedia	162 reviews	5 of 5 bubbles	true	true	false	false
+187	Kantipur Temple House	NPR 5,988	Expedia	888 reviews	4.5 of 5 bubbles	true	false	false	true
+188	Hotel Friends Home	NPR 2,369	Booking.com	1,402 reviews	5 of 5 bubbles	true	true	false	false
+189	Hotel Shanker	NPR 5,988	Expedia	1,307 reviews	4 of 5 bubbles	true	false	true	false
+190	Shambaling Boutique Hotel	NPR 4,037	Expedia	523 reviews	5 of 5 bubbles	true	false	true	false
+191	Dwarika's Hotel	NPR 26,180	Booking.com	1,195 reviews	4.5 of 5 bubbles	false	false	false	true
+192	Aria Boutique Hotel & Spa	NPR 4,992	Expedia	324 reviews	4.5 of 5 bubbles	true	true	false	false
+193	Hotel Shambala	NPR 8,418	Expedia	494 reviews	4.5 of 5 bubbles	true	false	true	false
+194	Hotel Silver Home	NPR 1,055	Expedia	731 reviews	4.5 of 5 bubbles	true	true	false	false
+195	Gokarna Forest Resort	NPR 13,126	Expedia	971 reviews	4.5 of 5 bubbles	false	true	true	false
+196	Crowne Plaza Kathmandu-Soaltee	NPR 17,674	Expedia	1,016 reviews	4 of 5 bubbles	false	false	true	false
+197	Hyatt Regency Kathmandu	NPR 13,636	Booking.com	1,780 reviews	4.5 of 5 bubbles	false	false	true	false
+198	Dream Nepal Hotel and Apartment	NPR 2,633	Expedia	615 reviews	4.5 of 5 bubbles	true	true	false	false
+199	OYO 11477 Backyard Hotel	NPR 1,842	Booking.com	638 reviews	4.5 of 5 bubbles	true	true	false	false
+200	Thamel Eco Resort	NPR 3,072	Booking.com	394 reviews	4 of 5 bubbles	true	true	false	false
+201	Gaju Suite Hotel	NPR 3,212	Booking.com	490 reviews	4.5 of 5 bubbles	true	false	true	false
+202	Kathmandu Eco Hotel	NPR 2,369	Booking.com	780 reviews	5 of 5 bubbles	true	true	false	false
+203	Trekkers' Home	NPR 711	Booking.com	761 reviews	4.5 of 5 bubbles	true	false	false	true
+204	Hotel Amaryllis	NPR 2,164	Booking.com	394 reviews	5 of 5 bubbles	true	false	true	false
+205	Norbulinka Boutique Hotel	NPR 2,800	Booking.com	264 reviews	4.5 of 5 bubbles	true	false	true	false
+206	Avataar Kathmandu Hotel	NPR 3,072	Booking.com	284 reviews	4.5 of 5 bubbles	true	true	false	false
+207	Hotel Access Nepal	NPR 3,915	Booking.com	366 reviews	4.5 of 5 bubbles	true	true	false	false
+208	Pilgrims Guest House	NPR 1,663	Booking.com	443 reviews	4.5 of 5 bubbles	true	false	true	false
+209	Hotel Mums Home Pvt Ltd	NPR 3,160	Expedia	827 reviews	5 of 5 bubbles	true	false	true	false
+210	Hotel Buddha Land	NPR 1,975	Booking.com	279 reviews	4.5 of 5 bubbles	true	false	false	false
+211	Hotel Nepalaya	NPR 1,561	Booking.com	661 reviews	4.5 of 5 bubbles	true	false	true	false
+212	Hotel Family Home	NPR 1,027	Booking.com	617 reviews	4.5 of 5 bubbles	true	false	false	false
+213	Hotel Thamel	NPR 2,944	Booking.com	401 reviews	4 of 5 bubbles	true	true	false	false
+214	Hotel Buddha	NPR 2,741	Booking.com	402 reviews	4.5 of 5 bubbles	true	false	true	false
+215	Hotel Osho Home	NPR 2,159	Booking.com	455 reviews	5 of 5 bubbles	true	true	false	false
+216	Khangsar Guest House	NPR 923	Booking.com	538 reviews	4.5 of 5 bubbles	true	false	false	true
+217	Kantipur Temple House	NPR 5,988	Expedia	888 reviews	4.5 of 5 bubbles	true	false	false	true
+218	Hotel Shanker	NPR 5,988	Expedia	1,307 reviews	4 of 5 bubbles	true	false	true	false
+219	Trekkers' Home	NPR 711	Booking.com	761 reviews	4.5 of 5 bubbles	true	false	false	true
+220	Hotel Friends Home	NPR 2,370	Expedia	1,402 reviews	5 of 5 bubbles	true	true	false	false
+221	Oasis Kathmandu Hotel	NPR 3,687	Booking.com	511 reviews	5 of 5 bubbles	true	false	true	false
+222	Kantipur Temple House	NPR 5,988	Expedia	888 reviews	4.5 of 5 bubbles	true	false	false	true
+223	Hotel Silver Home	NPR 1,055	Expedia	731 reviews	4.5 of 5 bubbles	true	true	false	false
+224	Aryatara Kathmandu Hotel	NPR 3,393	Booking.com	638 reviews	5 of 5 bubbles	true	false	true	false
+225	Kathmandu Guest House	NPR 4,976	Expedia	1,388 reviews	4 of 5 bubbles	true	true	false	false
+226	Hyatt Regency Kathmandu	NPR 13,636	Booking.com	1,780 reviews	4.5 of 5 bubbles	false	false	true	false
+227	Kumari Boutique Hotel	NPR 4,562	Booking.com	104 reviews	5 of 5 bubbles	true	false	true	false
+228	Hotel Family Home	NPR 1,027	Booking.com	617 reviews	4.5 of 5 bubbles	true	false	false	false
+229	DOM Himalaya Hotel	NPR 3,857	Booking.com	180 reviews	5 of 5 bubbles	true	false	true	false
+230	Shambaling Boutique Hotel	NPR 4,037	Expedia	523 reviews	5 of 5 bubbles	true	false	true	false
+231	Kathmandu Eco Hotel	NPR 2,369	Booking.com	780 reviews	5 of 5 bubbles	true	true	false	false
+232	Kathmandu Grand Hotel	NPR 3,264	Booking.com	889 reviews	4.5 of 5 bubbles	true	true	false	false
+233	Shree Tibet Family Guest House	NPR 790	Booking.com	451 reviews	4.5 of 5 bubbles	true	false	false	false
+234	Kathmandu Boutique Hotel	NPR 1,313	Expedia	392 reviews	5 of 5 bubbles	true	true	false	false
+235	Hotel Ganesh Himal	NPR 2,997	Booking.com	684 reviews	4.5 of 5 bubbles	true	false	false	true
+236	Hotel Mums Home Pvt Ltd	NPR 3,160	Expedia	827 reviews	5 of 5 bubbles	true	false	true	false
+237	Hotel Osho Home	NPR 2,168	Expedia	455 reviews	5 of 5 bubbles	true	true	false	false
+238	Hotel Shambala	NPR 8,418	Expedia	494 reviews	4.5 of 5 bubbles	true	false	true	false
+239	Dwarika's Hotel	NPR 26,180	Booking.com	1,195 reviews	4.5 of 5 bubbles	false	false	false	true
+240	The Sparkling Turtle Backpackers Hostel	NPR 1,231	Booking.com	234 reviews	4.5 of 5 bubbles	true	true	false	false
+241	Thamel Eco Resort	NPR 3,055	Expedia	394 reviews	4 of 5 bubbles	true	true	false	false
+242	Hotel Mulberry	NPR 11,584	Expedia	104 reviews	5 of 5 bubbles	true	false	true	false
+243	Royal Penguin Boutique Hotel & Spa	NPR 5,266	Expedia	240 reviews	4.5 of 5 bubbles	true	true	false	false
+244	Kathmandu Suite Home	NPR 3,765	Agoda.com	85 reviews	5 of 5 bubbles	true	true	false	false
+245	Kasthamandap Boutique Hotel	NPR 4,344	Agoda.com	193 reviews	5 of 5 bubbles	true	true	false	false
+246	Hotel Amaryllis	NPR 2,164	Booking.com	394 reviews	5 of 5 bubbles	true	false	true	false
+247	Hotel Happy Home	NPR 1,716	Booking.com	536 reviews	4.5 of 5 bubbles	true	true	false	false
